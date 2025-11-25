@@ -1,5 +1,5 @@
 {
-      "name": "Pokédex Interativa Design",
+      "name": "PokéGo helper",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
@@ -55,6 +55,6 @@
       },
       "scripts": {
             "dev": "vite",
-            "build": "vite build"
+            "build": "npx vite build"
       }
 }
